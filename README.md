@@ -10,10 +10,11 @@ Tools
 - stats library python (Time Series Analysis)
 
 How It Works
-1. Data Fetching: Pulls Apple stock data CSV.
-2. Preprocessing: Cleans data by removing missing values and outliers, applies smoothing and making data stationary.
-3. Analysis: Computes time-series metrics like moving averages to highlight trends, seasonality and residual.
-4. Visualization: Plots results (e.g., price over time) for easy interpretation.
+1. Data Collection: Collected data from kaggle
+2. Data Fetching: Pulls Apple stock data CSV.
+3. Preprocessing: Cleans data by removing missing values and outliers, applies smoothing and making data stationary.
+4. Analysis: Computes time-series metrics like moving averages to highlight trends, seasonality and residual.
+5. Visualization: Plots results (e.g., price over time) for easy interpretation.
 
 Notes
 Built as a personal project to explore time-series analysis; can be adapted to other financial datasets. See code comments for details.
